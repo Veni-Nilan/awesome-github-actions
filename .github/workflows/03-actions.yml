@@ -1,4 +1,4 @@
-name: actions-example
+name: actions-example.
 on:
   push:
     paths:
